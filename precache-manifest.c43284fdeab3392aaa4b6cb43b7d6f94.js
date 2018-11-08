@@ -64,12 +64,12 @@ self.__precacheManifest = [
     "url": "/github.io/Portfolio/static/media/icon_linkedin.62fce863.svg"
   },
   {
-    "revision": "fa1b8db568baaf0491c4214a73ab6c33",
-    "url": "/github.io/Portfolio/static/media/image_blog1.fa1b8db5.jpg"
-  },
-  {
     "revision": "ce29924364b9f99cf71a422cc07a302a",
     "url": "/github.io/Portfolio/static/media/image_blog3.ce299243.jpg"
+  },
+  {
+    "revision": "fa1b8db568baaf0491c4214a73ab6c33",
+    "url": "/github.io/Portfolio/static/media/image_blog1.fa1b8db5.jpg"
   },
   {
     "revision": "361ff152e39f56a87a2899056aa89197",
