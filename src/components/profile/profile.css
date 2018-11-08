@@ -1,0 +1,51 @@
+img#icon_profile{
+    height: 70px;
+    opacity: 0.5;
+    margin: 10px;
+}
+
+p{
+    font-size: calc(30px - 10px);
+    text-align: justify;
+}
+
+img#image_profile{
+    margin-top: 80px;
+    width: calc(100vh - 50vh);
+    /* border: 1px solid black; */
+}
+
+div#description_profile{
+    margin-top: 100px;
+    
+}
+
+div#curriculo {
+    margin: 50px;
+    padding: 10px;
+    font-size:20px;
+    font-weight: bold;
+    text-align: center;
+    border: 2px solid black;
+    transition: 0.5s;
+    color: black;
+}
+
+div#curriculo:hover{
+    border: 2px solid #ffffff;
+    cursor: pointer;
+}
+
+a:link { 
+    text-decoration:none; 
+} 
+
+
+
+
+
+
+
+
+
+

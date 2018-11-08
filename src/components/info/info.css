@@ -1,0 +1,39 @@
+div#title{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: block;
+    display: flex;  
+  }
+
+img#icon_info{
+    height: 70px;
+    opacity: 0.5;
+    margin: 10px;
+}
+
+p.title_info{
+    font-size: 26px;
+    color: black;
+}
+
+img#icon_github{
+    height: 200px;
+    opacity: 0.5;
+    margin: 10px;
+    transition: 1s;
+}
+
+div.github{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+div.github p{
+    text-align: center;
+}
+
+img#icon_github:hover{
+    opacity: 1;
+}

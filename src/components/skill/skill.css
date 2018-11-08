@@ -1,0 +1,40 @@
+div#title{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: block;
+    display: flex;  
+  }
+
+img#icon_skill{
+    height: 70px;
+    opacity: 0.5;
+    margin: 10px;
+}
+
+li.skill{
+    border-radius: 5px;
+    padding: 10px;
+    width: 180px;
+    text-align: center;
+    margin: 10px;
+    display: block;
+    background-color: rgb(90, 88, 88);
+    color: white;
+    transition: 1s;
+}
+
+ul.skills{
+    display: inline-block;
+    width: calc(160vh - 40vh);
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+}
+
+li.skill:hover{
+    background-color: white;
+    color:rgb(37, 36, 36);
+    font-weight: bold;
+}
+
+

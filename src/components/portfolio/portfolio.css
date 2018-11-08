@@ -1,0 +1,39 @@
+div#title{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: block;
+    display: flex;  
+  }
+
+  img#icon_portfolio{
+    height: 70px;
+    opacity: 0.5;
+    margin: 10px;
+}
+
+img.item_portf{
+    height: 300px;
+    width: 300px;
+    /* border: 2px solid black; */
+    padding: 50px;
+    margin: 20px;
+    margin-top: -10px;
+    opacity: 1;
+    transition: 1s;
+}
+
+img.item_portf:hover{
+    opacity: 0.5;
+    border: none;
+    height: 320px;
+    width: 320px
+}
+
+div.work{
+    /* border: 2px solid black; */
+    height: 360px;
+    width: 360px;
+    display: block;
+    text-align: center;
+}
+

@@ -1,0 +1,97 @@
+img#icon_blog{
+    height: 70px;
+    opacity: 0.5;
+    margin: 10px;
+}
+
+div#image1{
+    width: 300px;
+    height: 300px;
+    background-image: url(../../images/image_blog1.jpg);
+    border-radius: 10px;
+    opacity: 0.4;
+    transition: 1s;
+}
+
+div#image1:hover{
+    opacity: 1;
+}
+
+div#image2{
+    width: 300px;
+    height: 300px;
+    background-image: url(../../images/image_blog2.png);
+    border-radius: 10px;
+    opacity: 0.4;
+    transition: 1s;
+}
+
+div#image2:hover{
+    opacity: 1;
+}
+
+div#image3{
+    width: 300px;
+    height: 300px;
+    background-image: url(../../images/image_blog3.jpg);
+    border-radius: 10px;
+    opacity: 0.4;
+    transition: 1s;
+}
+
+div#image3:hover{
+    opacity: 1;
+}
+
+
+div.blog{
+    /* border: 2px solid black; */
+    width: 340px;
+    height: 630px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    background-color: black;
+    margin: 10px;
+    color: white;
+}
+
+div.leia{
+    width: 335px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: flex-end;
+    margin: 0px;
+    background-color: white;
+    color: black;
+    border-radius: 3px;
+    transition: 1s;
+}
+
+div.blog p{
+    /* color: white; */
+    font-weight: normal;
+}
+
+div.leia:hover{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+a:link { 
+    text-decoration:none; 
+} 
+
+span{
+    color: black;
+}
+
